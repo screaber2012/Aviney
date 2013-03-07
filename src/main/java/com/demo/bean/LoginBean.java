@@ -18,7 +18,7 @@ import org.primefaces.context.RequestContext;
 
 /**
  *
- * @author Flopez
+ * @author Flopezddd
  */
 @ManagedBean(name="loginBean")
 @SessionScoped
